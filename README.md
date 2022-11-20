@@ -35,4 +35,4 @@ I've learned how to make make simple codes in html and css, how to create contai
 ## Author
 
 - Github - [@putkaradze13](https://github.com/Putkaradze13)
-- Linkdin - [@Tengiz Putkaradze](linkedin.com/in/tengiz-putkaradze-83a745239)
+- Linkdin - [@Tengiz Putkaradze](linkedin.com/in/tengiz-putkaradze-83a745239)# putkaradze13.github.io
